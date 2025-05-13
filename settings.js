@@ -1,7 +1,7 @@
 /*
-  project_name : 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿 Bot
+  project_name : ᴋʏʏ ɴᴇᴡʙɪᴇ 🦅
   Version : 2.4.0
-  Owner : Hector Manuel
+  Owner : ᴋʏʏ ɴᴇᴡʙɪᴇ 🦅
   Do Not Clone 
 
 
@@ -29,7 +29,7 @@ global.ownernumber = process.env.OWNER_NUMBER || '6285143362747'
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Hector Manuel' 
+global.ownername = process.env.OWNER_NAME || 'ᴋʏʏ ɴᴇᴡʙɪᴇ 🦅' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
@@ -37,7 +37,7 @@ global.packname = process.env.STICKER_PACK_NAME || "𝙆𝘼𝙉𝙂𝙊-𝙓�
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "Hector" 
+global.author = process.env.STICKER_AUTHOR_NAME || "ᴋʏʏ ɴᴇᴡʙɪᴇ 🦅" 
 
 //----------------------[ TIMEZONE ]--------------------//
 
@@ -54,17 +54,17 @@ global.dbToken = process.env.GITHUB_TOKEN || "";
 
 //-----------------[ CONTEXT LINK ]--------------------//
 
-global.plink = process.env.PLINK || "https://youtube.com/@official_manuel"
+global.plink = process.env.PLINK || "https://youtube.com/@ikyyoffc"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "> ©𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿"
+global.wm = process.env.GL_WM || "> ©ᴋʏʏ ɴᴇᴡʙɪᴇ 🦅"
 
 //---------------------[ REPLIES ]-----------------------//
 
 global.mess = { 
   done: '*Done*', 
-  success: '> © 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿', 
+  success: '> © ᴋʏʏ ɴᴇᴡʙɪᴇ 🦅', 
   owner: `*You don't have permission to use this command!*`, 
   group: '*This feature becomes available when you use it in a group!*', 
   admin: '*You’ll unlock this feature with me as an admin!*', 
